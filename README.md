@@ -3,10 +3,14 @@ Objetivo
 Crear una aplicación que permita ingresar el nombre de 3 personas y sus edades y, al finalizar la
 carga de datos, el programa debe informarnos quién es mayor.
 Flujo de la aplicación
+
 1 – Mostrar un prompt donde el usuario pueda ingresar el nombre de cada persona
+
 2 – Tras ingresar un nombre, debemos mostrar un segundo prompt para ingresar la edad de la
 persona
+
 3 – Tras finalizar la carga de datos, debemos mostrar un nuevo mensaje indicando quién es mayor.
+
 A tener en cuenta
 El texto debe ser dinámico.
 ◦ Para la 1er persona debe mostrarse el mensaje “Ingrese el nombre de la 1er persona”
