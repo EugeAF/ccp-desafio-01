@@ -12,11 +12,17 @@ persona
 3 – Tras finalizar la carga de datos, debemos mostrar un nuevo mensaje indicando quién es mayor.
 
 A tener en cuenta
+
 El texto debe ser dinámico.
+
 ◦ Para la 1er persona debe mostrarse el mensaje “Ingrese el nombre de la 1er persona”
+
 ◦ Para la 2da persona debe mostrarse el mensaje “Ingrese el nombre de la 2da persona”
+
 ◦ Para la 3er persona debe mostrarse el mensaje “Ingrese el nombre de la 3er persona”
+
 ◦ Lo mismo para solicitar la edad. Debe incluirse el nombre de la persona en el mensaje.
+
 Considerar los siguientes casos posibles
 1. Hay una sola persona mayor a las demás
 2. Hay dos personas mayores al 3ro.
